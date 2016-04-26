@@ -2,6 +2,7 @@
 	"type": "component",
 	"id": "iphone_app",
 	"label": "iPhone App",
+	"color": "CDDC39"
 	"connections": ["server"],
 	"description": "Our iPhone app which gives our users access to their to-do lists."
 }
