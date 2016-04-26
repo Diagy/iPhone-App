@@ -1,10 +1,7 @@
-/*** This is a Diagy file. It provides the information that
-     will be used to visualize this component ***/
-
 {
-	"type": "component",   // In this file we're defining a component
-	"id": "iphone_app",    // For creating connections between components
-	"label": "iPhone App", // The label that will appear in the dashboard view
-	"connections": ["server"],     // ID's of components it connects to
-	"description": "Our iPhone app which gives our users access to their to-do lists.",
+	"type": "component",
+	"id": "iphone_app",
+	"label": "iPhone App",
+	"connections": ["server"],
+	"description": "Our iPhone app which gives our users access to their to-do lists."
 }
