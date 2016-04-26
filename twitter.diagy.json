@@ -1,0 +1,7 @@
+{
+	"type": "component",
+	"id": "twitter_api",
+	"label": "Twitter API",
+	"connections": ["iphone_app"],
+	"description": "Twitter API that lets users tweet their accomplishments."
+}
